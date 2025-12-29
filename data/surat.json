@@ -36,5 +36,14 @@
     "tanggal": "2025-12-29",
     "kegiatan": "eeee",
     "lampiran": []
+  },
+  {
+    "tanggal": "2025-12-29",
+    "kegiatan": "tes",
+    "lampiran": [
+      "lampiran/1766983960448_cap12.jpg",
+      "lampiran/1766983964329_cap12.jpg",
+      "lampiran/1766983967488_cap12.jpg"
+    ]
   }
 ]
